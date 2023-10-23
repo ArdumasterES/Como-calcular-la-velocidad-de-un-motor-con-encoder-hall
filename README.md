@@ -1,8 +1,8 @@
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O4O4L1CXI)
-# [Añade un sensor capacitivo a tu Arduino con 2 cables y una resistencia, sin módulos](anade-un-sensor-capacitivo-a-tu-arduino-con-2-cables-y-una-reistencia-sin-modulos)
+# [Como calcular la velocidad de un motor con encoder hall](https://ardumaster.com/como-calcular-la-velocidad-de-un-motor-con-encoder-hall/)
 
 ¡Para todos los detalles de como utilizar este código, visita el artículo correspondiente en ardumaster.com!
 
-anade-un-sensor-capacitivo-a-tu-arduino-con-2-cables-y-una-reistencia-sin-modulos
+ardumaster.com/define-una-frecuencia-de-ejecucion-fija-en-arduino/ 
 
-En este artículo vamos a explorar como añadir un sensor capacitivo, de tacto, a tu Arduino sin necesidad de utilizar un módulo ni un sensor dedicado, unicamente con la librería capacitiveSensor.
+Como calcular la velocidad de un motor con encoder de efecto hall, código y ejemplo Arduino. Interrupciones.
